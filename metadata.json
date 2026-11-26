@@ -1,0 +1,6 @@
+{
+  "name": "REA Web Workbench",
+  "description": "Web and JavaScript reverse engineering workbench powered by REA (morluto/rea) MCP tools and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
